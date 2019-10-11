@@ -77,3 +77,5 @@ collections:
     output: true
     permalink: "/tutorials/:path/"
 
+
+theme: jekyll-theme-dinky
